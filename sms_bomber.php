@@ -3,8 +3,8 @@
 /**
  * Sms Bomber
  * By: BlackM4ster 24/06/2016
- * https://github.com/isc30/SmallProjects/sms_bomber.php
  * https://www.youtube.com/watch?v=x0wJXodckQA
+ * https://github.com/isc30/SmallProjects/blob/master/sms_bomber.php
  */
 class Application
 {
