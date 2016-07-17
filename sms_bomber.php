@@ -25,7 +25,7 @@ class Application
     protected function getForm()
     {
         /** @lang HTML */
-        return <<<'HTML'
+        return <<<HTML
 <form action="" method="POST">
     Number: <input type="text" name="number" value="" />
     <input type="submit" value="Send SMS" />
