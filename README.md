@@ -1,4 +1,4 @@
 Guide on how to use with video explanation. 
-https://www.youtube.com/watch?v=x0wJXodckQA
+https://youtu.be/ftkkTO9IRps
 
 A Simple SMS Bomber.
